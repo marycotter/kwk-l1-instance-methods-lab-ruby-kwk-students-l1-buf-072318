@@ -1,7 +1,11 @@
 # person.rb
 class Person 
-  
-    
+  def talk
+    puts ""
+  end 
+  def walk
+    puts ""
+  end
 end
 
 # alan_kay = Person.new("alan_kay")
